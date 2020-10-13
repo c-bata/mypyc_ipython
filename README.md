@@ -89,4 +89,4 @@ Masashi Shibata ([@c-bata](https://github.com/c-bata))
 
 ## License
 
-MIT License.python
+MIT License
