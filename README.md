@@ -14,7 +14,7 @@ Note that I found the bug on the latest version of mypyc (mypy==0.790). See http
 
 ## Usage
 
-The usage is similar with [``%%cython`` magic command](https://cython.readthedocs.io/en/latest/src/quickstart/build.html#using-the-jupyter-notebook).
+You can use this library like [``%%cython`` magic command](https://cython.readthedocs.io/en/latest/src/quickstart/build.html#using-the-jupyter-notebook).
 
 1. Execute ``%load_ext mypyc_ipython`` to enable the magic.
 2. Write the code in ``%%mypyc`` code cell.
