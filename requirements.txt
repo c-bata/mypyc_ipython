@@ -1,0 +1,7 @@
+# Dependencies
+mypy
+ipython
+
+# Linter / Formatter
+black
+flake8
