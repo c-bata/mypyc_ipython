@@ -1,0 +1,10 @@
+venv/
+tmp/
+dist/
+build/
+__pycache__/
+.mypy_cache/
+*.pyc
+.eggs/
+*.egg-info/
+*.stats
