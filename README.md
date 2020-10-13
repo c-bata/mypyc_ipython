@@ -10,6 +10,8 @@ Supported Python versions are 3.6 or later.
 $ pip install mypyc-ipython
 ```
 
+Note that I found the bug on the latest version of mypyc (mypy==0.790). See https://github.com/mypyc/mypyc/issues/763 for details.
+
 ## Usage
 
 The usage is similar with [``%%cython`` magic command](https://cython.readthedocs.io/en/latest/src/quickstart/build.html#using-the-jupyter-notebook).
