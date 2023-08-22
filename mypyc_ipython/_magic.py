@@ -8,8 +8,8 @@ import sys
 import time
 import distutils.log
 import hashlib
-from distutils.core import Distribution
-from distutils.command.build_ext import build_ext
+from setuptools.dist import Distribution
+from setuptools.command.build_ext import build_ext
 import importlib.machinery
 
 from mypyc.build import get_extension, mypycify
